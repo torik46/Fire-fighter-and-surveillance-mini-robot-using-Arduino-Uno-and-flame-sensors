@@ -1,13 +1,3 @@
-
-"""
-Project: Fire Fighter and Surveillance Mini Robot
-Platform: Python (Raspberry Pi / Simulation)
-Description:
-- Reads flame sensor
-- Controls motors
-- Activates CO2 foam (relay)
-"""
-
 import time
 
 # ----- Pin Definitions (BCM numbering assumed) -----
